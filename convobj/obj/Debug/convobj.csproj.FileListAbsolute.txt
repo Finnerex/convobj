@@ -1,0 +1,7 @@
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\obj\Debug\convobj.csproj.AssemblyReference.cache
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\obj\Debug\convobj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\obj\Debug\convobj.csproj.CoreCompileInputs.cache
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\bin\Debug\convobj.exe
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\bin\Debug\convobj.pdb
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\obj\Debug\convobj.exe
+C:\Users\Finn Dyer\RiderProjects\convobj\convobj\obj\Debug\convobj.pdb
